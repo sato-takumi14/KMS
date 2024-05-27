@@ -159,9 +159,6 @@
     <ClCompile Include="Polygon2D.cpp">
       <Filter>GameObject</Filter>
     </ClCompile>
-    <ClCompile Include="Tree.cpp">
-      <Filter>GameObject</Filter>
-    </ClCompile>
     <ClCompile Include="EnemyManager.cpp">
       <Filter>Manager</Filter>
     </ClCompile>
@@ -469,9 +466,6 @@
     </ClInclude>
     <ClInclude Include="DrawAnim2D.h">
       <Filter>Component\Draw</Filter>
-    </ClInclude>
-    <ClInclude Include="Tree.h">
-      <Filter>GameObject</Filter>
     </ClInclude>
     <ClInclude Include="EnemyManager.h">
       <Filter>Manager</Filter>

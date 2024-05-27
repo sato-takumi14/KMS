@@ -258,7 +258,6 @@
     <ClCompile Include="TitleLogo.cpp" />
     <ClCompile Include="TitlePlayer.cpp" />
     <ClCompile Include="Trampoline.cpp" />
-    <ClCompile Include="Tree.cpp" />
     <ClCompile Include="Tutorial.cpp" />
     <ClCompile Include="UIManager.cpp" />
   </ItemGroup>
@@ -365,7 +364,6 @@
     <ClInclude Include="TitlePlayer.h" />
     <ClInclude Include="Trampoline.h" />
     <ClInclude Include="Transform.h" />
-    <ClInclude Include="Tree.h" />
     <ClInclude Include="Tutorial.h" />
     <ClInclude Include="UI.h" />
     <ClInclude Include="UIManager.h" />
